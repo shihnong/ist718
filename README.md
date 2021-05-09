@@ -8,4 +8,7 @@ https://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/data-fi
 https://www.restaurantbusinessonline.com/top-100-independents
 
 ## Goal: 
-Analyze Covid Data and see the impact on various industries whether restaurant / stocks / farm. Also use news data to better understand how news around Covid may impact as well.
+Analyze Covid Data and see the impact on various industries whether restaurant / stocks / farm. Also use news data to better understand how news around Covid may impact as well
+
+## Colab: (Requires Access)
+https://colab.research.google.com/drive/1DaeeN8jKZnc6T3aFzvyhAdYFQ8id7dgp#scrollTo=UnJNyZXcrtpf.
