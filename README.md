@@ -8,7 +8,7 @@ https://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/data-fi
 https://www.restaurantbusinessonline.com/top-100-independents  
 https://finance.yahoo.com/quote/tsn/history/ (replace the tsn with other stock symbols)  
 https://covid.cdc.gov/covid-data-tracker/#vaccination-trends
-https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset - **News Articles in 2020**
+https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset - **380,000 News/Media Articles from 2020**
 
 ## Goal: 
 Analyze Covid Data and see the impact on various industries whether restaurant / stocks / farm. Also use news data to better understand how news around Covid may impact as well.
