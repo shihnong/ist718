@@ -1,0 +1,15 @@
+Check-In 2
+	• Specification: What problem are you attempting to solve?
+    The COVID-19 Pandemic in the U.S. began with a noted string of confusion and misinformation around risk, prevalence, and response.
+    We're trying to cut through the chatter, and figure out what the news cycle gets right - or wrong.
+		
+	• Observation: What have you observed thus far in the data?
+  -Data subcategories: CDC, News, Deaths & hospitalizations
+  
+  Analysis: What modeling techniques will you use?
+	-Analysis approaches: 
+  'Forward Implication' -> connect deaths and hospitalizations to trends in the news
+  'Backward Implication' -> Connect trends in the news to public action, possibly real-world deaths and hospitalizations
+  'Circular Implication' -> See how the modern news cycle is driven by external factors, or previous content
+  
+Recommendation: What work do you still have to do?
